@@ -1,0 +1,2 @@
+print('Dosli')
+print('Osli')
