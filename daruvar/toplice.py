@@ -1,2 +1,0 @@
-print('Dosli')
-print('Osli')
